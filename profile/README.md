@@ -1,12 +1,12 @@
 🧠 Welcome to Metascience@UOL
 
-This organization provides metascience related tools for brain imaging analysis developed by the Department of Psychology, University of Oldenburg.
+This page provides metascience-related tools for brain imaging analysis developed by various labs in the Department of Psychology at the University of Oldenburg.
 
-The currently available projects are
+Currently available projects are: 
 
-METEOR: The multiverse of fMRI data preprocessing and analysis. ([Paper](https://www.sciencedirect.com/science/article/pii/S0149763424003154), [App](https://www.apps.meta-rep.lmu.de/METEOR/))
+METEOR: The multiverse of fMRI data preprocessing and analysis. ([Paper](https://www.sciencedirect.com/science/article/pii/S0149763424003154),  [GitHub]([[https://www.apps.meta-rep.lmu.de/METEOR](https://github.com/mibur1/comet)/](https://github.com/kristantodan12/METEOR)), [App](https://www.apps.meta-rep.lmu.de/METEOR/))
 
-COMET: A toolbox for multiverse analysis of dynamic functional connectivity in fMRI. ([Paper](https://www.biorxiv.org/content/10.1101/2024.01.21.576546v1), [Toolbox](https://comet-toolbox.readthedocs.io/en/latest))
+COMET: A toolbox for multiverse analysis of dynamic functional connectivity in fMRI. ([Paper](https://www.biorxiv.org/content/10.1101/2024.01.21.576546v1), [GitHub]([https://www.apps.meta-rep.lmu.de/METEOR](https://github.com/mibur1/comet)/), [Documentation](https://comet-toolbox.readthedocs.io/en/latest), )
 
 <!--
 
