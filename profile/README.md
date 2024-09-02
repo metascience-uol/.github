@@ -4,9 +4,9 @@ This page provides metascience-related tools for brain imaging analysis develope
 
 Currently available projects are: 
 
-METEOR: The multiverse of fMRI data preprocessing and analysis. ([Paper](https://www.sciencedirect.com/science/article/pii/S0149763424003154),  [GitHub]([[https://www.apps.meta-rep.lmu.de/METEOR](https://github.com/mibur1/comet)/](https://github.com/kristantodan12/METEOR)), [App](https://www.apps.meta-rep.lmu.de/METEOR/))
+METEOR: The multiverse of fMRI data preprocessing and analysis. ([Paper](https://www.sciencedirect.com/science/article/pii/S0149763424003154),  [GitHub](https://github.com/kristantodan12/METEOR), [App](https://www.apps.meta-rep.lmu.de/METEOR/))
 
-COMET: A toolbox for multiverse analysis of dynamic functional connectivity in fMRI. ([Paper](https://www.biorxiv.org/content/10.1101/2024.01.21.576546v1), [GitHub]([https://www.apps.meta-rep.lmu.de/METEOR](https://github.com/mibur1/comet)/), [Documentation](https://comet-toolbox.readthedocs.io/en/latest), )
+COMET: A toolbox for multiverse analysis of dynamic functional connectivity in fMRI. ([Paper](https://www.biorxiv.org/content/10.1101/2024.01.21.576546v1), [GitHub](https://github.com/mibur1/comet), [Documentation](https://comet-toolbox.readthedocs.io/en/latest), )
 
 <!--
 
